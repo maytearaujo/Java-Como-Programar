@@ -5,6 +5,7 @@ public class Welcome1
 		System.out.print("Welcome to ");
 		System.out.println("Java Programming!");
 		
-		System.out.println("Welcome");
+		System.out.println("Hello World!\nWelcome to Ja Programming!");
+		System.out.printf("%s%n%s%n","Hello World!", "Welcome to Ja Programming!");
 	}
 }
